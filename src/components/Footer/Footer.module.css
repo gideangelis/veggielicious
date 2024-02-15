@@ -1,0 +1,39 @@
+.footerWrapper {
+    padding: 1rem 5rem;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: rgb(97, 97, 97);
+    font-size: .9rem;
+    position: sticky;
+    top: 100%;
+}
+
+
+.creator svg {
+    color: var(--primary-color);
+    vertical-align: middle;
+    margin-left: 2px;
+    margin-right: 5px;
+}
+
+.socialIcons svg {
+    margin-left: 18px;
+    color: var(--primary-color);
+    font-size: 1.2rem;
+    vertical-align: middle;
+}
+
+.socialIcons span {
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 600px) {
+    .footerWrapper {
+        font-size: .9rem;
+    }
+
+    .socialIcons svg {
+        display: none;
+    }
+}
