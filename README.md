@@ -38,3 +38,7 @@ This is how Veggielicious looks like:
 - Commit your changes (git commit -am 'Add some feature').
 - Push to the branch (git push origin feature/your-feature).
 - Create a new Pull Request.
+
+## Author
+
+- Website - [Giorgia De Angelis](https://gideangelis.github.io/portfolio/)
