@@ -1,6 +1,12 @@
 # Veggielicious
 
-This React project, developed as part of the Start2Impact course, is designed to contribute to the reduction of meat consumption in the diet. It incorporates modern web development practices, such as component-based architecture, state management, and responsive design principles.
+This React project, developed as part of the Start2Impact course, is designed to contribute to the reduction of meat consumption in the diet. 
+
+It incorporates modern web development practices, such as component-based architecture, state management, and responsive design principles.
+
+## Link to Veggielicious (Netlify App)
+
+[Find hundreds of vegetarian recipes!](https://veggielicious-react-project.netlify.app/)
 
 ## Technologies Used:
 - React.js
