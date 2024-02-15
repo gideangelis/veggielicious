@@ -12,9 +12,9 @@ This React project, developed as part of the Start2Impact course, is designed to
 
 ## Screenshots
 
-![Screenshot](./screenshots/screenshot1.png)
-![Screenshot](./screenshots/screenshot2.png)
-![Screenshot](./screenshots/screenshot3.png)
+![Screenshot](src/assets/screenshots/screenshot1.png)
+![Screenshot](src/assets/screenshots/Screenshot2.png)
+![Screenshot](src/assets/screenshots/Screenshot3.png)
 
 ## Contribution:
 
