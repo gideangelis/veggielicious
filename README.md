@@ -12,8 +12,15 @@ This React project, developed as part of the Start2Impact course, is designed to
 
 ## Screenshots
 
+This is how Veggielicious looks like:
+
+#### Screenshot 1
 ![Screenshot](src/assets/screenshots/screenshot1.png)
+
+#### Screenshot 2
 ![Screenshot](src/assets/screenshots/Screenshot2.png)
+
+#### Screenshot 3
 ![Screenshot](src/assets/screenshots/Screenshot3.png)
 
 ## Contribution:
