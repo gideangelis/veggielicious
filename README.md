@@ -1,1 +1,2 @@
-# veggielicious
+# React project: Veggielicious
+
